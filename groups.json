@@ -1,0 +1,1345 @@
+[{
+	"groupSymbol": "36723",
+	"description": "גן רינה ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "114306",
+	"description": "חניכי הישיבות",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "114397",
+	"description": "חיי שרה",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "136010",
+	"description": "חניכי הישיבות",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "153858",
+	"description": "גן סיגלית ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "154948",
+	"description": "גן הילה ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "163022",
+	"description": "נתיבות שלום",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "164186",
+	"description": "חניכי הישיבות",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "188979",
+	"description": "גן פנינה ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "216184",
+	"description": "גן רותי גדסי",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "216192",
+	"description": "גן מיכל בן חיים",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "226761",
+	"description": "גן שפרה",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "235275",
+	"description": "הרב מעודה ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "239145",
+	"description": "גן חדווה חבשוש",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "239152",
+	"description": "גן נעמי מרחבי",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "239160",
+	"description": "גן חדווה לוי",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "241521",
+	"description": "גן יפית ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "311746",
+	"description": "גן גיל 4 ו 3",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "338749",
+	"description": "בית מרגלית החדש",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "342097",
+	"description": "גן שירלי ענף",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "358770",
+	"description": "מירי בן שושן",
+	"status": "1",
+	"price": "3500",
+	"paymentInstallments": "10"
+}, {
+	"groupSymbol": "359208",
+	"description": "גן תורת חסד",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "373530",
+	"description": "גן חגית וילמן",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "373571",
+	"description": "גו אפרת בן חור",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "376558",
+	"description": "גן שירה ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "378000",
+	"description": "סולם",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "379982",
+	"description": "גן אפרת",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "416545",
+	"description": "בית ספר פרי תואר",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "424457",
+	"description": "גן אסתי ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "428292",
+	"description": "גן מרים",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "428995",
+	"description": "גן שירה",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "429001",
+	"description": "גן חניכי השיבות 3",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "429175",
+	"description": "גן תורת חסד ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "431874",
+	"description": "גן בתיה",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "453332",
+	"description": "גן מיכל ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "453340",
+	"description": "גן מיכל צאירי",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "453399",
+	"description": "גן רינת ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "453696",
+	"description": "גן רבקה ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "454439",
+	"description": "גן אפרת",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "455253",
+	"description": "גן חיה",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "455352",
+	"description": "גן מכינה ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "456814",
+	"description": "מרכז גני ילדים יונית",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "468751",
+	"description": "עוז והדר",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "472803",
+	"description": "גן תהילה ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "472811",
+	"description": "גן עוזרי",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "474346",
+	"description": "גן הודיה דאהן",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "474747",
+	"description": "גן ריקי",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "475103",
+	"description": "גן תהילה ומוריה ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "475202",
+	"description": "גן מכינה ב' הרב בנימין",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "475244",
+	"description": "גן מכינה ב' ניצוצי",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "475269",
+	"description": "גן מכינה ב' טויטו",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "475285",
+	"description": "גן אבישג",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "511253",
+	"description": "פנינת בית יעקב",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "526830",
+	"description": "גן גיל 3",
+	"status": "1",
+	"price": "2000",
+	"paymentInstallments": "10"
+}, {
+	"groupSymbol": "526848",
+	"description": "גן דבורי",
+	"status": "1",
+	"price": "2000",
+	"paymentInstallments": "10"
+}, {
+	"groupSymbol": "546556",
+	"description": "מעיין החינוך התורני יעל 2",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "546636",
+	"description": "גו חן",
+	"status": "1",
+	"price": "3150",
+	"paymentInstallments": "9"
+}, {
+	"groupSymbol": "546655",
+	"description": "גן סוזי",
+	"status": "1",
+	"price": "3150",
+	"paymentInstallments": "9"
+}, {
+	"groupSymbol": "546663",
+	"description": "גן בנות 1",
+	"status": "1",
+	"price": "180",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "546713",
+	"description": "גן אילנית חגג",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "546721",
+	"description": "גן חדווה סרי",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "546739",
+	"description": "גן נחמי קלנטר",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "546747",
+	"description": "גן דגנית חדד",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "546754",
+	"description": "גן אודליה ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "546812",
+	"description": "גן אבישג",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "546820",
+	"description": "גן רבקה ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "546838",
+	"description": "גן שרה אבו ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "546853",
+	"description": "גן רות פרחי",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "546861",
+	"description": "גן מלי הלוי",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "546879",
+	"description": "גן אודליה נגר ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "547075",
+	"description": "גן אושרת אזולאי",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "547083",
+	"description": "גן מרים פרנסי",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "547109",
+	"description": "גן רבקי ואביגיל",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "547380",
+	"description": "גן רותי",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "547398",
+	"description": "גן אתי",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "547596",
+	"description": "גן אפרת",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "547604",
+	"description": "גן אפרת בנים ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "547612",
+	"description": "גן אילה בנות",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "547620",
+	"description": "גן אילת",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "547638",
+	"description": "מכינה הרב יהודה ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "547639",
+	"description": "מכינה הרב יהודה ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "555193",
+	"description": "גן מירב כהן",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "555201",
+	"description": "גן אורית לוי",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "555318",
+	"description": "גן הדס קאשי",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "555326",
+	"description": "גן נועה דוידה",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "555334",
+	"description": "גן מיכל אבו",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "555342",
+	"description": "גן מירי מזרחי ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "557439",
+	"description": "גן יעל אייל",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "557447",
+	"description": "גן גאולה אוחנה ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "557454",
+	"description": "גן אפרת גמליאל ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "557462",
+	"description": "גן אורית ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "559286",
+	"description": "גן ריני דרשן",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "559294",
+	"description": "גן מרים אלעזרא",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "562942",
+	"description": "מירי הררי",
+	"status": "1",
+	"price": "3500",
+	"paymentInstallments": "10"
+}, {
+	"groupSymbol": "562959",
+	"description": "מירי צדקה ",
+	"status": "1",
+	"price": "3500",
+	"paymentInstallments": "10"
+}, {
+	"groupSymbol": "710590",
+	"description": "גן מדר",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "710715",
+	"description": "גן ליאת חובה",
+	"status": "1",
+	"price": "1620",
+	"paymentInstallments": "9"
+}, {
+	"groupSymbol": "710764",
+	"description": "גן אליהו בוסו",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "711887",
+	"description": "גן רבקה פרל",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "712125",
+	"description": "גן מרים עזר",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "713347",
+	"description": "גן אפרת ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "713369",
+	"description": "גן נחמי",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "713396",
+	"description": "בנות מלכה",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "713420",
+	"description": "סולם",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "713677",
+	"description": "גן תהילה ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "713966",
+	"description": "גן ברוריה",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "715565",
+	"description": "גן מכינה א' נתן דוד",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "715607",
+	"description": "גן גיל 3 בנים ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "715631",
+	"description": "גן מכינה א' רוזנטל",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "715656",
+	"description": "מכינה א' משה כהן",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "716092",
+	"description": "גן יהודית",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "716100",
+	"description": "גן מיכל פנחסי",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "716631",
+	"description": "גן מכינה א' רוזנטל",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "718718",
+	"description": "גן רבקי",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "718916",
+	"description": "גן יעל ",
+	"status": "1",
+	"price": "2000",
+	"paymentInstallments": "10"
+}, {
+	"groupSymbol": "719070",
+	"description": "ברסלב יידיש 1",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "719534",
+	"description": "גן מכינה לירון",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "720359",
+	"description": "גן שלהבת ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "720664",
+	"description": "גן שלווה",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "720672",
+	"description": "גן רות",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "720680",
+	"description": "גן גלי ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "721001",
+	"description": "גן אורלי ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "722173",
+	"description": "גן קלרה ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "723759",
+	"description": "גן חובה בנות ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "723767",
+	"description": "גן גיל 4 בנות ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "723775",
+	"description": "גן גיל 3 בנות",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "727214",
+	"description": "גן רות ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "727438",
+	"description": "גן מיכל ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "727461",
+	"description": "גן צברי ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "727479",
+	"description": "גן רבקה ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "727495",
+	"description": "גן שירת יוסף",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "727834",
+	"description": "גן חובה",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "729269",
+	"description": "ברסלב יידיש 2",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "729491",
+	"description": "גן גיל 5",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "730317",
+	"description": "גן רוחמי ושרה ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "730796",
+	"description": "גן מלי ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "731356",
+	"description": "גן גיל 4",
+	"status": "1",
+	"price": "2000",
+	"paymentInstallments": "10"
+}, {
+	"groupSymbol": "732537",
+	"description": "גן מכינה ב' ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "3"
+}, {
+	"groupSymbol": "732545",
+	"description": "גן אסתר גיל 4",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "737272",
+	"description": "גן גילאי 3 ו 4",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "741884",
+	"description": "גן מכינה ",
+	"status": "1",
+	"price": "2000",
+	"paymentInstallments": "10"
+}, {
+	"groupSymbol": "1135141",
+	"description": "חיי שרהכיתה א' ",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "1135142",
+	"description": "חיי שרהכיתה ב' ",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "1143061",
+	"description": "חניכי הישיבות כיתה א' הרב קלמן ",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "1143062",
+	"description": "חניכי הישיבות חניכי הישיבות כיתה ב'",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "1143063",
+	"description": "חניכי הישיבות  כיתה א מיוחד המורה שרה",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "1143064",
+	"description": "חניכי הישיבות כיתה ב' מיוחד המורה נאוה ",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "1143971",
+	"description": "חיי שרהחיי שרה כיתה א' ",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "1143972",
+	"description": "חיי שרהחיי שרה כיתה ב'",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "1234567",
+	"description": "כיתה ב מיוחד",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "1"
+}, {
+	"groupSymbol": "1240571",
+	"description": "מגן אבות מגן אבות כיתה א'",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "1240572",
+	"description": "מגן אבות מגן אבות כיתה ב'",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "1240991",
+	"description": "משנת יהודה משנת יהודה כיתה א'",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "1240992",
+	"description": "משנת יהודה משנת יהודה כיתה ב'",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "1360101",
+	"description": "חניכי הישיבות חניכי הישיבות כיתה א' ",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "1360102",
+	"description": "חניכי הישיבות חניכי הישיבות כיתה ב'",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "1360103",
+	"description": "חניכי הישיבות כיתה א' מיוחד ",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "1360104",
+	"description": "חניכי הישיבות  כיתה בי כיתת מיוחד",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "1360105",
+	"description": "חניכי הישיבותכיתה א2",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "1"
+}, {
+	"groupSymbol": "1630221",
+	"description": "נתיבות שלום כיתה א'",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "1630222",
+	"description": "נתיבות שלום כיתה ב'",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "1641861",
+	"description": "חניכי הישיבות  כיתה א המורה דבורי ",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "1641862",
+	"description": "חניכי הישיבות כיתה ב' המורה שולמית ",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "1641863",
+	"description": "חניכי הישיבות כיתה ב' מיוחד המורה רבקי ",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "1"
+}, {
+	"groupSymbol": "2410181",
+	"description": "ת\"ת אור המאיראור המאיר כיתה א'",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "2410182",
+	"description": "ת\"ת אור המאיראור המאיר כיתה ב'",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "2730861",
+	"description": "בית יעקב רמת בית שמש  כיתה א' ",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "2730862",
+	"description": "בית יעקב רמת בית שמש  כיתה ב'",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "2730863",
+	"description": "בית יעקב רמת בית שמש כיתה א יידיש ",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "2730864",
+	"description": "בית יעקב רמת בית שמש כיתה ב' יידיש",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "3136010",
+	"description": "חניכי הישיבות חניכי הישיבות כיתה א מיוחד",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "3381781",
+	"description": "דרך התורה  דרך התורה כיתה א'",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "3381782",
+	"description": "דרך התורה  דרך התורה כיתה ב'",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "3387491",
+	"description": "בי\"ס בית מרגלית החדשבית מרגלית החדש כיתה א'",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "3387492",
+	"description": "בי\"ס בית מרגלית החדשבית מרגלית החדש כיתה ב'",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "3509831",
+	"description": "ת\"ת דעת יוסף דעת יוסף כיתה א'",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "3509832",
+	"description": "ת\"ת דעת יוסף דעת יוסף כיתה ב'",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "3592081",
+	"description": "דרכי אישדרכי איש כיתה א' ",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "3592082",
+	"description": "דרכי אישדרכי איש כיתה ב'",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "3631351",
+	"description": "חפץ חיים חפץ חיים כיתה א' ",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "3631352",
+	"description": "חפץ חיים חפץ חיים כיתה ב'",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "4020998",
+	"description": "גורי משה יעל",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "1"
+}, {
+	"groupSymbol": "4105551",
+	"description": "ביס אור אור המאיר בנות אור המאיר כיתה א' ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "4105552",
+	"description": "ביס אור אור המאיר בנות אור המאיר בנות כיתה ב'",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "4150591",
+	"description": "בי\"ס בית מרגלית  בית מרגלית כיתה א' ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "4150592",
+	"description": "בי\"ס בית מרגלית כיתה ב'",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "4150593",
+	"description": "בי\"ס בית מרגליתכיתת  חנמ ב",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "4156611",
+	"description": "מאור ישראל מאור ישראל כיתה א' ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "4156612",
+	"description": "מאור ישראל מאור ישראל כיתה ב'",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "4163471",
+	"description": "ת\"ת פרי תוארכיתה א'",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "4163472",
+	"description": "ת\"ת פרי תוארכיתה ב'",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "4165451",
+	"description": "בי\"ס פרי תוארכיתה א'",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "4165452",
+	"description": "בי\"ס פרי תוארכיתה ב'",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "4426161",
+	"description": "נתיבות שלום בנותכיתה א' ",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "1"
+}, {
+	"groupSymbol": "4426162",
+	"description": "נתיבות שלום בנותכיתה ב'",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "4997311",
+	"description": "אורחות אימותינו כיתה א'",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "4997312",
+	"description": "אורחות אימותינו כיתה ב'",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "5112531",
+	"description": "פנינת בית יעקב כיתות א'",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "5112532",
+	"description": "פנינת בית יעקב כיתות  ב'",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "5114021",
+	"description": "עוז והדר  עוז והדר כיתה א'",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "5114022",
+	"description": "עוז והדר  עוז והדר כיתה ב'",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "5114691",
+	"description": "בנות הדסה בנות הדסה כיתה א' ",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "5114692",
+	"description": "בנות הדסה בנות הדסה כיתה ב",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "5141090",
+	"description": "אור דוד",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "5141091",
+	"description": "אור דוד  כיתה א'",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "5141092",
+	"description": "אור דוד  כיתה ב'",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "5141094",
+	"description": "אור דוד אור דוד כיתה ב מיוחד",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "5143490",
+	"description": "אוצר החיים בנות",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "5143491",
+	"description": "אוצר החיים בנות  כיתה א'",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "5143492",
+	"description": "אוצר החיים בנות  כיתה ב'",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "5144551",
+	"description": "כינור דוד כיתה א'",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "5144552",
+	"description": "כינור דוד כיתה ב'",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "5145621",
+	"description": "איש מצליחכיתה א' ",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "5145622",
+	"description": "איש מצליחכיתה ב'",
+	"status": "1",
+	"price": "500",
+	"paymentInstallments": "5"
+}, {
+	"groupSymbol": "5145701",
+	"description": "אוהלי אברהם  כיתה א'",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "5145702",
+	"description": "אוהלי אברהם  כיתה ב'",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "6118481",
+	"description": "תורת שלוםתורת שלום כיתה א'",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "6118482",
+	"description": "תורת שלוםתורת שלום כיתה ב'",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "7292361",
+	"description": "תפארת שרה תפארת שרה כיתה א'",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "7292362",
+	"description": "תפארת שרה תפארת שרה כיתה ב'",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "7390371",
+	"description": "רשב\"ירשב\"י כיתה א'",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "7390372",
+	"description": "רשב\"ירשב\"י כיתה ב'",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}, {
+	"groupSymbol": "12345678",
+	"description": "כיתה ב מיוחד",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "1"
+}, {
+	"groupSymbol": "51410901",
+	"description": " אור דוד",
+	"status": "1",
+	"price": "0",
+	"paymentInstallments": "0"
+}]

@@ -4,12 +4,13 @@
   "main": "server.js",
   "license": "MIT",
   "engines": {
-    "node": "8.9.3",
-    "npm": "5.5.1"
+    "node": ">=8.9.3",
+    "npm": ">=5.5.1"
   },
   "scripts": {
     "testConnection": "babel-node ./testSQLConnnection.js",
-    "loadCalendar": "babel-node ./src/load/LoadCalendar",
+    "loadCalendar": "node ./src/load/LoadCalendar",
+    "mock": "node ./src/load/mock",
     "start": "nodemon server.js --exec babel-node --presets es2015 --plugins transform-class-properties",
     "debug": "nodemon server.js --exec babel-node --presets es2015 --plugins transform-class-properties --inspect-brk"
   },
