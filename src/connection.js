@@ -38,46 +38,46 @@ Station.belongsTo(Group, { foreignKey: "groupSymbol" });
 
 sequelize.sync({ force: false }).then(() => {
   console.log(`Database sync`);
-    Day.bulkCreate(database.Days).then(() => {
-    Employee.bulkCreate(database.Employees).then(() => {
-      // Group.bulkCreate(database.Groups).then(() => {
-        Station.bulkCreate(database.Stations).then(() => {
-          let length = database.Schedules.length;
-          let i = 0;
-          while (length >= 0) {
-            let arr = [];
-            for (let index = 0; index < 1000; index++) {
-              if (length >= 0) {
-                arr.push(database.Schedules[i])
-                length--;
-                i++;
-              }
-            }
-            Schedule.bulkCreate(arr).then(() => {
-              console.log("Done with Schedule");
-            })
-          }
+  //   Day.bulkCreate(database.Days).then(() => {
+  //   Employee.bulkCreate(database.Employees).then(() => {
+  //     // Group.bulkCreate(database.Groups).then(() => {
+  //       Station.bulkCreate(database.Stations).then(() => {
+  //         let length = database.Schedules.length;
+  //         let i = 0;
+  //         while (length >= 0) {
+  //           let arr = [];
+  //           for (let index = 0; index < 1000; index++) {
+  //             if (length >= 0) {
+  //               arr.push(database.Schedules[i])
+  //               length--;
+  //               i++;
+  //             }
+  //           }
+  //           Schedule.bulkCreate(arr).then(() => {
+  //             console.log("Done with Schedule");
+  //           })
+  //         }
 
 
-          length = database.Reports.length;
-          i = 0;
-          while (length >= 0) {
-            let arr = [];
-            for (let index = 0; index < 1000; index++) {
-              if (length >= 0) {
-                arr.push(database.Reports[i])
-                length--;
-                i++;
-              }
-            }
-            Report.bulkCreate(arr).then(() => {
-              console.log("Done with Report");
-            })
-          }
-        })
-      })
-    // })
-  })
+  //         length = database.Reports.length;
+  //         i = 0;
+  //         while (length >= 0) {
+  //           let arr = [];
+  //           for (let index = 0; index < 1000; index++) {
+  //             if (length >= 0) {
+  //               arr.push(database.Reports[i])
+  //               length--;
+  //               i++;
+  //             }
+  //           }
+  //           Report.bulkCreate(arr).then(() => {
+  //             console.log("Done with Report");
+  //           })
+  //         }
+  //       })
+  //     })
+  //   // })
+  // })
 });
 
 module.exports = {
