@@ -28,6 +28,32 @@ on r.date = d.display
 WHERE r.in is null AND r.out is null
 ORDER by d.display    
 
+
+DELIMITER $$
+CREATE DEFINER=`test`@`%` PROCEDURE `applyReportOut`(IN `emplId` VARCHAR(9), IN `stationNum` INT(5), IN `timeReportred` TIME, IN `dateReported` DATE)
+    NO SQL
+BEGIN
+    DECLARE _status int(1);
+      
+    SELECT checkStationStatus (stationNum) into _status;
+    CASE
+    	when _status = 1 then
+    	BEGIN
+        	insert INTO failed_reports (`out`, createdAt, updatedAt, `date`, employeeId, stationNumber)            VALUES(timeReportred, NOW(), NOW(), dateReported, emplId, stationNum);
+        END;
+    	when _status = 2 THEN
+        	BEGIN
+      
+                UPDATE reports 
+                SET `out` = timeReportred, updatedAt = NOW()
+                WHERE employeeId = emplId
+                AND stationNumber = stationNum
+                AND DATE(date) = DATE(dateReported);
+			END;
+     END CASE;
+END$$
+DELIMITER ;
+
 DROP PROCEDURE `getEmployeeByPhone`; CREATE DEFINER=`test`@`%` PROCEDURE `getEmployeeByPhone`(IN `phoneNumber` VARCHAR(255)) NOT DETERMINISTIC NO SQL SQL SECURITY DEFINER BEGIN select id, concat(firstName, ' ', lastName) as name from employees WHERE phone = phoneNumber; END
 
 DROP FUNCTION `checkStationStatus`; CREATE DEFINER=`test`@`%` FUNCTION `checkStationStatus`(`stationNum` INT(11)) RETURNS INT(11) DETERMINISTIC READS SQL DATA SQL SECURITY DEFINER BEGIN DECLARE cnt int(11); SET cnt = 0; select count(*) into cnt from stations where stationNumber = stationNum; return cnt; END
