@@ -21,3 +21,9 @@ ORDER BY
     s.groupSymbol,
     d.year,
     d.dayOfYear
+    
+SELECT * FROM `reports` as r 
+RIGHT JOIN days as d 
+on r.date = d.display
+WHERE r.in is null AND r.out is null
+ORDER by d.display    
