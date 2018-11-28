@@ -29,3 +29,5 @@ WHERE r.in is null AND r.out is null
 ORDER by d.display    
 
 DROP PROCEDURE `getEmployeeByPhone`; CREATE DEFINER=`test`@`%` PROCEDURE `getEmployeeByPhone`(IN `phoneNumber` VARCHAR(255)) NOT DETERMINISTIC NO SQL SQL SECURITY DEFINER BEGIN select id, concat(firstName, ' ', lastName) as name from employees WHERE phone = phoneNumber; END
+
+DROP FUNCTION `checkStationStatus`; CREATE DEFINER=`test`@`%` FUNCTION `checkStationStatus`(`stationNum` INT(11)) RETURNS INT(11) DETERMINISTIC READS SQL DATA SQL SECURITY DEFINER BEGIN DECLARE cnt int(11); SET cnt = 0; select count(*) into cnt from stations where stationNumber = stationNum; return cnt; END
