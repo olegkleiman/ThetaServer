@@ -27,3 +27,5 @@ RIGHT JOIN days as d
 on r.date = d.display
 WHERE r.in is null AND r.out is null
 ORDER by d.display    
+
+DROP PROCEDURE `getEmployeeByPhone`; CREATE DEFINER=`test`@`%` PROCEDURE `getEmployeeByPhone`(IN `phoneNumber` VARCHAR(255)) NOT DETERMINISTIC NO SQL SQL SECURITY DEFINER BEGIN select id, concat(firstName, ' ', lastName) as name from employees WHERE phone = phoneNumber; END
