@@ -31,3 +31,5 @@ ORDER by d.display
 DROP PROCEDURE `getEmployeeByPhone`; CREATE DEFINER=`test`@`%` PROCEDURE `getEmployeeByPhone`(IN `phoneNumber` VARCHAR(255)) NOT DETERMINISTIC NO SQL SQL SECURITY DEFINER BEGIN select id, concat(firstName, ' ', lastName) as name from employees WHERE phone = phoneNumber; END
 
 DROP FUNCTION `checkStationStatus`; CREATE DEFINER=`test`@`%` FUNCTION `checkStationStatus`(`stationNum` INT(11)) RETURNS INT(11) DETERMINISTIC READS SQL DATA SQL SECURITY DEFINER BEGIN DECLARE cnt int(11); SET cnt = 0; select count(*) into cnt from stations where stationNumber = stationNum; return cnt; END
+
+DROP FUNCTION `checkStationStatus`; CREATE DEFINER=`test`@`%` FUNCTION `checkStationStatus`(`stationNum` INT(11)) RETURNS INT(11) DETERMINISTIC READS SQL DATA SQL SECURITY DEFINER BEGIN DECLARE cnt int(11); DECLARE _in time; DECLARE _out time; SET cnt = 0; select count(*) into cnt from stations where stationNumber = stationNum; if cnt = 0 then return 0; end if; select `in`, `out` into _in, _out from reports where stationNumber = stationNum and date = DATE( NOW() ); return cnt; END
